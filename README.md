@@ -7,6 +7,7 @@ ________________________________________________________________________________
 ## Welcome to my GitHub!
 
 **1️⃣ Professional & Impact-Driven**
+
 **I am a ***Data Science & AI practitioner*** with a strong foundation in ***machine learning, deep learning, NLP, and AI-driven problem-solving***.
 My transition from Application Developer to**
 **AI & Data Science was fueled by a passion for turning complex data into actionable insights and building intelligent systems that drive innovation.**
@@ -16,10 +17,10 @@ AI-powered solutions that optimize decision-making and transform industries.**
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
 **💻🖱️ What I Do 🤔**
-**🧠 Machine Learning & Deep Learning – Building intelligent models & optimizing performance**
-**🔍 Natural Language Processing (NLP) – Text processing, Transformer-based models**
-**🎯 Recommendation Systems – Personalized AI-driven recommendations**
-**🤖 Generative AI – Transformers, RAG (Retrieval-Augmented Generation)**
+-**🧠 Machine Learning & Deep Learning – Building intelligent models & optimizing performance**
+-**🔍 Natural Language Processing (NLP) – Text processing, Transformer-based models**
+-**🎯 Recommendation Systems – Personalized AI-driven recommendations**
+-**🤖 Generative AI – Transformers, RAG (Retrieval-Augmented Generation)**
 
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
