@@ -17,10 +17,10 @@ AI-powered solutions that optimize decision-making and transform industries.**
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
 **💻🖱️ What I Do 🤔**
--**🧠 Machine Learning & Deep Learning – Building intelligent models & optimizing performance**
--**🔍 Natural Language Processing (NLP) – Text processing, Transformer-based models**
--**🎯 Recommendation Systems – Personalized AI-driven recommendations**
--**🤖 Generative AI – Transformers, RAG (Retrieval-Augmented Generation)**
+**-🧠 Machine Learning & Deep Learning – Building intelligent models & optimizing performance**
+**-🔍 Natural Language Processing (NLP) – Text processing, Transformer-based models**
+**-🎯 Recommendation Systems – Personalized AI-driven recommendations**
+**-🤖 Generative AI – Transformers, RAG (Retrieval-Augmented Generation)**
 
 ________________________________________________________________________________________________________________________________________________________________________________________________
 
