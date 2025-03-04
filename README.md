@@ -45,7 +45,7 @@ ________________________________________________________________________________
 - **✅ Data Visualization:** ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)     , ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)  , ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)  
 
 ## **⚙️ MLOps & Deployment**
-- **✅ Version Control:** Git GitHub
+- **✅ Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ,  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
