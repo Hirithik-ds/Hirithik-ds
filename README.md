@@ -42,7 +42,7 @@ ________________________________________________________________________________
 ## **🔗 Databases & Big Data**
 - **✅ SQL Databases:** MySQL PostgreSQL
 - **✅ NoSQL:** MongoDB
-- **✅ Data Visualization:** Matplotlib Seaborn
+- **✅ Data Visualization:** ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)   , ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge)  , ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge)  
 
 ## **⚙️ MLOps & Deployment**
 - **✅ Version Control:** Git GitHub
